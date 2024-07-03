@@ -1,0 +1,133 @@
+body {
+    background-color: brown;
+    color: white;
+}
+
+.Travel {
+    Color: #C70039;
+    background-color: rgb(240, 236, 4);
+    text-align: center;
+    width: 600px;
+    margin-left: 130px;
+    /* background-attachment:; */
+    font-family: cursive;
+    border: 10px solid #9e1b68;
+    border-radius: 10px 40px;
+    box-shadow: 10px 10px 20px black;
+
+}
+
+#po {
+    font-size: 18px;
+    background-color: #A72FAD;
+    border: 5px solid black;
+    border-radius: 10px 10px 40px 10px;
+    box-shadow: 2px 2px 5px black;
+}
+
+#div1 {
+    background-Color: purple;
+    border: 10px solid #772856;
+    box-shadow: 10px 10px 20px Black;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 30px;
+    border-radius: 10px 40px 5px;
+}
+
+a {
+    color: black
+}
+
+.div2 {
+    margin-left: 500px;
+    margin-right: 500px;
+    background-color: white;
+    color: red;
+    border: 10px solid Black;
+    border-radius: 10px 10px 40px 10px;
+    box-shadow: 10px 10px 30px #A72FAD;
+    margin-bottom:30px;
+
+}
+
+li {
+    color: yellowgreen;
+    background-color: rgb(235, 0, 235);
+    width: 150px;
+    border: 1px dotted rgb(165, 154, 154);
+    border-radius: 20px 10px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    Background-color: #35A493;
+    width: 350px;
+    text-align: center;
+    font-family: cursive;
+}
+
+#Important {
+    background-color: aquamarine;
+    color: Black;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-bottom: 30px;
+    border: 10px solid black;
+    border-radius: 10px 40px 10px ;
+    box-Shadow:10px 10px 30px white
+}
+#h11{
+    color:#772856;
+    background-color:wheat;
+    width:410px;
+    font-family: cursive;
+    border-radius: 10px 20px 10px 20px;
+    text-align:center;
+}
+#h33{
+    color:#9e1b68;
+    background-color:palevioletred;
+    width:480px;
+    font-family:cursive;
+    border-radius:20px 10px 20px 10px;
+    text-align:center
+}
+#pll{
+    font-size:18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center;
+    text-align:justify;
+}
+span{
+    border:2px solid red;
+}
+#feom{
+    background-color: #9e1b68;
+    Margin-left:450px ;
+    margin-right: 450px;
+    border-radius: 10px 20px 40px;
+    box-shadow:10px 10px 20px black;
+}
+input{
+    font-size: 18px ;
+    background-color: #B083AE ;
+    border:2px 2px solid white;
+    color:wheat;
+}
+#in{
+    color:red;
+    background-color: yellow;
+}
+fieldset{
+    border-radius:10px 20px 40px ;
+}
+#sub{
+   background-color:blueviolet;
+   color:white
+}
+input:hover{
+    color:cyan;
+    background-color: darkorange;
+}
